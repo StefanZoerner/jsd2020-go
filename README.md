@@ -1,5 +1,5 @@
 # jsd2020-go
-Beispiele für die GO Session auf dem JUG Saxony Day
+Beispiele für die Go Session auf dem [JUG Saxony Day 2020](https://jug-saxony-day.org)
 
 ## Das wichtigste zu Go aus Java-Sicht
 
@@ -12,3 +12,8 @@ Ihr könnt danach direkt loslegen. Oder informiert entscheiden, dass Ihr viellei
 
 ### Über Stefan Zörner (embarc)
 [Stefan Zörner](https://www.embarc.de/stefan-zoerner) ist Softwarearchitekt bei embarc in Hamburg. Er wirkt bei Entwurfs- und Umsetzungsfragen mit, unterstützt beim Festhalten von Architektur und beleuchtet Lösungsansätze in Bewertungen.
+
+### Folien-Download
+
+* https://www.embarc.de/programmiersprache-go-fuer-java-entwickler-jug-saxony-day-2020/
+
